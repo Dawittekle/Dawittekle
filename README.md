@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭I'm looking to collaborate on projects<br>🪴I'm currently learning full stack Web Development<br>😊I'm currently Front End Developer
+🚀 Passionate Full-Stack & Frontend Developer | 🔍 Open to Collaboration
+
+Hi there! 👋 I'm always excited to collaborate on Full-Stack and Frontend projects. If you're working on something cool, let's build together!
+
+💡 Currently Exploring: Machine Learning 🤖
+📌 Working On: Top projects in my repositories 🚀
+
+Let's connect and create something amazing! ✨
 
 
 ## 🌐 Socials:
